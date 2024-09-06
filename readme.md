@@ -21,4 +21,4 @@
 + ****Array****
 # JS Operators
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1609909393567/WSF4GApTZ.png?auto=compress,format&format=webp)
-![](./i.webp)
+![](file:///C:/Users/hmust/OneDrive/Desktop/js.homework1/035a3e0a1b52c66ddbbbd50bb4bc19a2.jpg)
