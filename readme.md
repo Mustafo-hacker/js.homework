@@ -1,5 +1,5 @@
 ![](./i%20(1).webp)
-# What is javascript?
+# What is JavaScript?
 ### > JavaScript, often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior
 ### > The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.
 ### > Brenden Eich creates the very first version of js in just 10 days. It was called Mocha, but already had many fundamental features of modern JavaScript!
